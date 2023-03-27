@@ -25,7 +25,8 @@ body {
   }
   
   .random_cats {
-    width: 40%;
+    width: 95%;
+    padding: 1rem;
   }
   
   img {
